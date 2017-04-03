@@ -1,0 +1,8 @@
+C:\Users\001384335\Desktop\FINAL-TTFTS\FINAL-TTFTS\bin\Debug\FINAL-TTFTS.exe.config
+C:\Users\001384335\Desktop\FINAL-TTFTS\FINAL-TTFTS\bin\Debug\FINAL-TTFTS.exe
+C:\Users\001384335\Desktop\FINAL-TTFTS\FINAL-TTFTS\bin\Debug\FINAL-TTFTS.pdb
+C:\Users\001384335\Desktop\FINAL-TTFTS\FINAL-TTFTS\obj\Debug\FINAL_TTFTS.Form1.resources
+C:\Users\001384335\Desktop\FINAL-TTFTS\FINAL-TTFTS\obj\Debug\FINAL_TTFTS.Properties.Resources.resources
+C:\Users\001384335\Desktop\FINAL-TTFTS\FINAL-TTFTS\obj\Debug\FINAL-TTFTS.csproj.GenerateResource.Cache
+C:\Users\001384335\Desktop\FINAL-TTFTS\FINAL-TTFTS\obj\Debug\FINAL-TTFTS.exe
+C:\Users\001384335\Desktop\FINAL-TTFTS\FINAL-TTFTS\obj\Debug\FINAL-TTFTS.pdb
