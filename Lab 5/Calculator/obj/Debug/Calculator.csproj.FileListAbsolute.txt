@@ -1,0 +1,56 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.exe
+C:\Murach\C# 2010\Instructors\Project solutions\Project 12-1 (Calculator)\Calculator\bin\Debug\Calculator.pdb
+C:\Murach\C# 2010\Instructors\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Instructors\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Murach\C# 2010\Instructors\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Instructors\Project solutions\Project 12-1 (Calculator)\Calculator\obj\Debug\GenerateResource.write.1.tlog
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-1 (Calculator)\Calculator\obj\Debug\Calculator.exe
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-1 (Calculator)\Calculator\obj\Debug\Calculator.pdb
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-1 (Calculator)\Calculator\bin\Debug\Calculator.exe.config
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-1 (Calculator)\Calculator\bin\Debug\Calculator.exe
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-1 (Calculator)\Calculator\bin\Debug\Calculator.pdb
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-1 (Calculator)\Calculator\obj\Debug\Calculator.Form1.resources
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-1 (Calculator)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-1 (Calculator)\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\C# 2012 Instructor's CD\Project solutions\Project 3-1 (Calculator)\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+Z:\C# 2012\C# 2012\Instructors\Project solutions\Project 3-1 (Calculator)\Calculator\bin\Debug\Calculator.exe.config
+Z:\C# 2012\C# 2012\Instructors\Project solutions\Project 3-1 (Calculator)\Calculator\obj\Debug\Calculator.exe
+Z:\C# 2012\C# 2012\Instructors\Project solutions\Project 3-1 (Calculator)\Calculator\obj\Debug\Calculator.pdb
+C:\Users\JBIANCO\Desktop\Broken Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\JBIANCO\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\JBIANCO\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\JBIANCO\Desktop\Broken Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\JBIANCO\Desktop\Broken Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\JBIANCO\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\JBIANCO\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\JBIANCO\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\JBIANCO\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\001384335\Desktop\Broken Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\001384335\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\001384335\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\001384335\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\001384335\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\001384335\Desktop\Broken Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\001384335\Desktop\Broken Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\001384335\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\001384335\Desktop\Broken Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
+J:\Broken Calculator\Calculator\bin\Debug\Calculator.exe.config
+J:\Broken Calculator\Calculator\obj\Debug\Calculator.exe
+J:\Broken Calculator\Calculator\obj\Debug\Calculator.pdb
+J:\Broken Calculator\Calculator\bin\Debug\Calculator.exe
+J:\Broken Calculator\Calculator\bin\Debug\Calculator.pdb
+J:\Broken Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+J:\Broken Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
+J:\Broken Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+J:\Broken Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache

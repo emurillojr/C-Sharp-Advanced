@@ -1,0 +1,10 @@
+C:\Users\Kyle\Desktop\EMurillo_Lab7\EMurillo_Lab7\bin\Debug\EMurillo_Lab7.exe.config
+C:\Users\Ernesto\Desktop\Ernie\EMurillo_Lab7\EMurillo_Lab7\bin\Debug\EMurillo_Lab7.exe.config
+C:\Users\Ernesto\Desktop\Ernie\EMurillo_Lab7\EMurillo_Lab7\bin\Debug\EMurillo_Lab7.exe
+C:\Users\Ernesto\Desktop\Ernie\EMurillo_Lab7\EMurillo_Lab7\bin\Debug\EMurillo_Lab7.pdb
+C:\Users\Ernesto\Desktop\Ernie\EMurillo_Lab7\EMurillo_Lab7\obj\Debug\EMurillo_Lab7.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\Ernie\EMurillo_Lab7\EMurillo_Lab7\obj\Debug\EMurillo_Lab7.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\Ernie\EMurillo_Lab7\EMurillo_Lab7\obj\Debug\EMurillo_Lab7.csproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\Ernie\EMurillo_Lab7\EMurillo_Lab7\obj\Debug\EMurillo_Lab7.exe
+C:\Users\Ernesto\Desktop\Ernie\EMurillo_Lab7\EMurillo_Lab7\obj\Debug\EMurillo_Lab7.pdb
+C:\Users\Ernesto\Desktop\Ernie\EMurillo_Lab7\EMurillo_Lab7\obj\Debug\EMurillo_Lab7.FrmMaintainProducts.resources
