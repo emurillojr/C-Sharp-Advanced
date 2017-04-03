@@ -1,0 +1,21 @@
+C:\Users\Ernesto\Desktop\c# test - EM\EMLab1Calculator\NEWCALCULATOR\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Ernesto\Desktop\c# test - EM\EMLab1Calculator\NEWCALCULATOR\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ernesto\Desktop\c# test - EM\EMLab1Calculator\NEWCALCULATOR\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Ernesto\Desktop\c# test - EM\EMLab1Calculator\NEWCALCULATOR\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\c# test - EM\EMLab1Calculator\NEWCALCULATOR\Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
+C:\Users\Ernesto\Desktop\c# test - EM\EMLab1Calculator\NEWCALCULATOR\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\c# test - EM\EMLab1Calculator\NEWCALCULATOR\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\c# test - EM\EMLab1Calculator\NEWCALCULATOR\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Ernesto\Desktop\c# test - EM\EMLab1Calculator\NEWCALCULATOR\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Ernesto\Desktop\c# lab1 Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Ernesto\Desktop\c# lab1 Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Ernesto\Desktop\c# lab1 Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Ernesto\Desktop\c# lab1 Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Ernesto\Desktop\c# lab1 Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Ernesto\Desktop\c# lab1 Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Ernesto\Desktop\c# lab1 Calculator\Calculator\obj\Debug\Calculator.frmCalculator.resources
+C:\Users\Ernesto\Desktop\c# lab1 Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Ernesto\Desktop\c# lab1 Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Ernesto\Desktop\C# Advanced\Lab 1\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Ernesto\Desktop\C# Advanced\Lab 1\Calculator\obj\Debug\Calculator.exe
+C:\Users\Ernesto\Desktop\C# Advanced\Lab 1\Calculator\obj\Debug\Calculator.pdb
